@@ -1,0 +1,97 @@
+
+/**Encabezado*/
+.header {
+    height: 70vh !important;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color: rgba(36, 12, 1, 0.918);
+    background: linear-gradient(rgba(218, 134, 38, 0.70),rgba(218,134,38,0.70)),
+    url(https://cdn.pixabay.com/photo/2018/03/10/12/00/teamwork-3213924_1280.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.header {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/**Cuerpo*/
+.content {
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    letter-spacing: 10cap;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 16px;
+    line-height: 40px;
+    background-color: rgba(252, 191, 118, 0.925);
+}
+
+/**Desenlace*/
+.contactI {
+    color: black;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+    letter-spacing: 10cap;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    padding-top: 16px;
+    padding-bottom: 8px;
+    line-height: 30px;
+    height: 15vh !important;
+    background-color: rgba(255, 207, 144, 0.925);
+}
+
+.formulario {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+ .formulario input {
+    width: 90%;
+    height: 30px;
+    margin: 0.5rem;
+  }
+  
+ .formulario button {
+    padding: 0.5em 1em;
+    border: none;
+    background: rgb(100, 200, 255);
+    cursor: pointer;
+  }
+
+  .formulario {
+    background-color: rgba(247, 219, 183, 0.925)
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
